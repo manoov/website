@@ -1,1 +1,1 @@
-# https://manoov.netlify.app/
+# manoov.github.io
